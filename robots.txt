@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://prediksi-tafsir-sakura.github.io/pts-1/sitemap.xml
